@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/choose_your_language"
+        android:gravity="center"
+        android:textColor="@color/app_color"
+        android:textSize="25sp"
+        android:padding="15dp"
+        android:textStyle="bold"
+        />
+
+    <Button
+        android:id="@+id/btnCanadianFrench"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/canadian"
+        android:textAllCaps="false"
+        android:background="@color/app_color"
+        android:layout_margin="15dp"
+        android:padding="10dp"
+        android:textColor="@color/white"
+        android:textSize="16sp"/>
+
+    <Button
+        android:id="@+id/btnEnglish"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/english"
+        android:textAllCaps="false"
+        android:background="@color/app_color"
+        android:layout_margin="15dp"
+        android:padding="10dp"
+        android:textColor="@color/white"
+        android:textSize="16sp"/>
+
+</LinearLayout>

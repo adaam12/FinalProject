@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NewsFeed</string>
+    <string name="nav_open">Ouvrir</string>
+    <string name="nav_close">Fermer</string>
+    <string name="hello_blank_fragment">Bonjour fragment vide</string>
+    <string name="open_nav">Ouvrir le tiroir de navigation</string>
+    <string name="close_nav">Fermer le tiroir de navigation</string>
+    <string name="home">Bienvenue sur NewsFeed</string>
+    <string name="bbc_news">BBC NEWS</string>
+    <string name="save">Enregistrer</string>
+    <string name="view_favourites">Voir les favoris</string>
+    <string name="news_feeds">Flux d\'actualités</string>
+    <string name="contact_newsfeed_com">contact@newsFeed.com</string>
+    <string name="enter_url">Entrer l\'URL</string>
+    <string name="get_feeds">Obtenir des flux</string>
+    <string name="choose_your_language">Choisissez votre langue</string>
+    <string name="canadian_french">Français canadien</string>
+    <string name="title">Titre</string>
+    <string name="discription">Description</string>
+    <string name="date">Date</string>
+    <string name="link">Lien</string>
+    <string name="delete">Supprimer</string>
+    <string name="logout">Déconnexion !</string>
+    <string name="english">Anglais</string>
+    <string name="canadian">Français canadien</string>
+
+    <string name="feeds_list">Liste des Flux</string>
+    <string name="saved_feed_list">Liste des Flux Enregistrés</string>
+    <string name="settings">Paramètres</string>
+    <string name="about_us">À propos de nous</string>
+</resources>
